@@ -1,8 +1,9 @@
-<img width="1346" height="650" alt="Screenshot 2025-12-10 153300" src="https://github.com/user-attachments/assets/17e03af6-1814-44ac-8c39-4a8935030ea8" />
-<img width="1351" height="685" alt="Screenshot 2025-12-10 153315" src="https://github.com/user-attachments/assets/a8aea7b2-dccd-49f3-a48e-1dbbd0518836" />
-<img width="1364" height="601" alt="Screenshot 2025-12-12 124421" src="https://github.com/user-attachments/assets/e095866d-bb83-4cb4-acb1-d91a857542ef" />
-<img width="1352" height="597" alt="Screenshot 2025-12-12 124435" src="https://github.com/user-attachments/assets/90e01fb3-6c9e-49aa-929b-e20be0581bf6" />
-<img width="1331" height="593" alt="Screenshot 2025-12-12 124449" src="https://github.com/user-attachments/assets/ecd99cb3-dad2-44a1-9589-6035f22cfdd1" />
+<img width="1364" height="601" alt="Screenshot 2025-12-12 124421" src="https://github.com/user-attachments/assets/af5b846c-c3a6-466e-8d6a-ea7e2760cb9b" />
+<img width="1352" height="597" alt="Screenshot 2025-12-12 124435" src="https://github.com/user-attachments/assets/48da0d2d-dcd4-4d68-9d0b-a1999cd4308f" />
+<img width="1331" height="593" alt="Screenshot 2025-12-12 124449" src="https://github.com/user-attachments/assets/17ebf8da-fbeb-42ed-b691-6d81408a88f5" />
+<img width="1346" height="650" alt="Screenshot 2025-12-10 153300" src="https://github.com/user-attachments/assets/55bfa227-590d-40b6-bd27-7815688eaaad" />
+<img width="1359" height="666" alt="Screenshot 2025-12-12 124519" src="https://github.com/user-attachments/assets/03c0d986-50f0-4978-9f05-3133bef809d1" />
+
 📚 AI-Powered Educational Communication Chatbot (Python Only)
 
 A fully Python-based intelligent chatbot designed to streamline communication between students, parents, and educators. This system uses Natural Language Processing (NLP), automated deadline checking, document reading, and messaging features to deliver accurate, real-time educational assistance.
