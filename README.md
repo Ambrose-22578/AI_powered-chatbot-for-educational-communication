@@ -1,7 +1,8 @@
-<img width="1364" height="601" alt="Screenshot 2025-12-12 124421" src="https://github.com/user-attachments/assets/af5b846c-c3a6-466e-8d6a-ea7e2760cb9b" />
-<img width="1352" height="597" alt="Screenshot 2025-12-12 124435" src="https://github.com/user-attachments/assets/48da0d2d-dcd4-4d68-9d0b-a1999cd4308f" />
-<img width="1346" height="650" alt="Screenshot 2025-12-10 153300" src="https://github.com/user-attachments/assets/55bfa227-590d-40b6-bd27-7815688eaaad" />
-<img width="1359" height="666" alt="Screenshot 2025-12-12 124519" src="https://github.com/user-attachments/assets/03c0d986-50f0-4978-9f05-3133bef809d1" />
+<img width="1364" height="601" alt="Screenshot 2025-12-12 124421" src="https://github.com/user-attachments/assets/c9366625-164f-4801-b3af-485efa83baba" />
+<img width="1352" height="597" alt="Screenshot 2025-12-12 124435" src="https://github.com/user-attachments/assets/f51c368a-cf28-4042-80b6-e48f97bd773c" />
+<img width="1331" height="593" alt="Screenshot 2025-12-12 124449" src="https://github.com/user-attachments/assets/b5189b3d-5353-4975-89cc-ab20dbc4f83a" />
+<img width="1359" height="666" alt="Screenshot 2025-12-12 124519" src="https://github.com/user-attachments/assets/f9cd4d4e-caaa-4282-9910-03b3a770fc60" />
+
 
 📚 AI-Powered Educational Communication Chatbot (Python Only)
 
